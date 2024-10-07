@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+options:
+   numbered: True
+parts:
+   - caption: Scraping Pidana Umum pada Putusan Mahkamah Agung pengadilan Banyuwangi
+     chapters:
+        - file: tugas-1/Tahap_1_Scraping_MetaData_Putusan
